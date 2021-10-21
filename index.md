@@ -48,4 +48,4 @@ Lego is as light as **3Kb** for the full bundle!
 
 No Babel transpiler, no Parcel, no Webpack… it just works out of the box.
 
-Demo: [view in action](https://lego.js.org/demo/)
+Demo: [view in action](https://polight.github.io/brick/demo/)
