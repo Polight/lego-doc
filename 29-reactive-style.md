@@ -2,7 +2,7 @@
 layout: page
 title: Reactive CSS
 permalink: /usage-web-components/reactive-css/
-nav_order: 22
+nav_order: 9
 parent: Usage
 ---
 
@@ -70,18 +70,3 @@ Example:
 ```
 
 will apply the `#357` color onto `h1`.
-
-
-## `<script>` tag
-
-The script tag is has a special behavior.
-You will create a class extending the component, that's how you build your
-full component with advanced script.
-
-To do so extend the `_`, that's a naming convention:
-
-```js
-export default class extends _ {
-  …
-}
-```

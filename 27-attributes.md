@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Attributes
+title: Pass attributes
 permalink: /usage-web-components/attributes/
-nav_order: 27
+nav_order: 7
 parent: Usage
 ---
 
