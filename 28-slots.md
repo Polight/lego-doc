@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Using slots
+title: Using slots to Insert Elements in Web-Components
+label: Using slots
 permalink: /usage-web-components/slots/
 nav_order: 8
 parent: Usage

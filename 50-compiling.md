@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Compiling
+title: Compile Web-Components to JavaScript
+label: Compiling
 permalink: /compile-components/
 nav_order: 50
 ---

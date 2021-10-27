@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Usage
+title: Using Native Web-Components
+label: Usage
 permalink: /usage-web-components/
 nav_order: 20
 toc: true

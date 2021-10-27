@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Getting deep
+title: Understanding Web-Components
+label: Getting deep
 permalink: /advanced-webcomponents/
 nav_order: 100
 ---
-
 
 ### Native web-components
 

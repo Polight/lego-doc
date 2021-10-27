@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Advanced Web-Components
+title: Full Example of Web-Components
+label: Advanced Example
 permalink: /advanced-components/
 nav_order: 50
 ---

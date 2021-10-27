@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Testing
+title: Testing Web-Components
+label: Testing
 permalink: /testing-components/
 nav_order: 60
 ---

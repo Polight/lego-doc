@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Reactive CSS
+title: Using Reactive CSS to Update Styles in Web-Components
+label: Reactive CSS
 permalink: /usage-web-components/reactive-css/
 nav_order: 9
 parent: Usage

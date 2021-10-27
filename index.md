@@ -1,7 +1,8 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: Home
+title: Native Web-Components Library
+label: Welcome
 nav_order: 0
 layout: home
 ---

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Template tag
+title: Template Tag to write HTML in Web-Components
+label: Template tag
 permalink: /usage-web-components/template/
 nav_order: 1
 parent: Usage

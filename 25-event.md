@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Binding events
+title: Bind an Event to a Web-Component
+label: Binding events
 permalink: /usage-web-components/events/
 nav_order: 5
 parent: Usage

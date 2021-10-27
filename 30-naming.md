@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Naming web-components
+title: Naming convention for Web-Components
+label: Naming Conventions
 permalink: /naming-components/
 nav_order: 30
 ---

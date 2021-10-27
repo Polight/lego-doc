@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Getting Started
+title: Build Native Web-Components
+label: Getting Started
 permalink: /getting-started/
 nav_order: 10
 ---

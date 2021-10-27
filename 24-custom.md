@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Custom directives
+title: Inserting Custom Attributes in Web-Components
+label: Custom directives
 permalink: /usage-web-components/custom-directive/
 nav_order: 4
 parent: Usage

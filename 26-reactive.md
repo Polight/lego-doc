@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Reactive properties
+title: Reactive Web-Components to Update HTML
+label: Reactive properties
 permalink: /usage-web-components/reactive/
 nav_order: 6
 parent: Usage

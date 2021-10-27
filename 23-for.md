@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Loop :for
+title: Using loops in Web-Components
+label: Loop :for
 permalink: /usage-web-components/loop/
 nav_order: 3
 parent: Usage
