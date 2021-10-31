@@ -14,7 +14,7 @@ parent: Usage
   <button @click="sayHi" name="the button">click</button>
 
 <script>
-  export default class extends _ {
+  export default class extends Lego {
     sayHi(event) {
       alert(`You clicked to says hi! 👋🏼`)
     }

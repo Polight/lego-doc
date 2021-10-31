@@ -33,7 +33,7 @@ __bricks/user-profile.html__
 </template>
 
 <script>
-  export default class extends _ {
+  export default class extends Lego {
     init() {
       this.state = {
         registered: false,

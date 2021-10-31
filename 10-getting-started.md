@@ -22,7 +22,7 @@ Create a file called __bricks/hello-world.html__:
 </template>
 
 <script>
-  export default class extends _ {
+  export default class extends Lego {
     init() { this.state = { name: "World!" } }
   }
 </script>

@@ -23,7 +23,7 @@ Writing CSS is as easy as
 </template>
 
 <script>
-  export default class extends _ {
+  export default class extends Lego {
     init() {
       this.state = { fontScale: 1 }
     }
@@ -57,7 +57,7 @@ Example:
   <h1>Bonjour<h1>
 </template>
 <script>
-  export default class extends _ {
+  export default class extends Lego {
     init() {
       this.state = { color: '#357' }
     }

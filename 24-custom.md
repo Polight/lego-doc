@@ -16,7 +16,7 @@ A custom directive will interpret in JS whatever you pass as value.
   <a :href="this.getUrl('144')">Visit Profile</a>
 </template>
 <script>
-  export default class extends _ {
+  export default class extends Lego {
     getUrl(id) { return `/user/${id}` }
   }
 </script>
