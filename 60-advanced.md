@@ -3,7 +3,7 @@ layout: page
 title: Full Example of Web-Components
 label: Advanced Example
 permalink: /advanced-components/
-nav_order: 50
+nav_order: 60
 ---
 
 Let's write a web-component that:

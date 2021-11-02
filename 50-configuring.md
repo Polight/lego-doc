@@ -3,7 +3,7 @@ layout: page
 title: Configuring compilation for Web-Components
 label: Configuring
 permalink: /configuring-components/
-nav_order: 55
+nav_order: 50
 ---
 
 The compiler can take serveral parameters: `sourceDir`, `destDist`, `watch`…

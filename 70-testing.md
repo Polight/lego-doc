@@ -3,7 +3,7 @@ layout: page
 title: Testing Web-Components
 label: Testing
 permalink: /testing-components/
-nav_order: 60
+nav_order: 70
 ---
 
 

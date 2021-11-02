@@ -3,7 +3,7 @@ layout: page
 title: Understanding Web-Components
 label: Getting deep
 permalink: /advanced-webcomponents/
-nav_order: 100
+nav_order: 80
 ---
 
 ### Native web-components

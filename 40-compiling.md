@@ -3,7 +3,7 @@ layout: page
 title: Compile Web-Components to JavaScript
 label: Compiling
 permalink: /compile-components/
-nav_order: 50
+nav_order: 40
 ---
 
 Compiling Lego component is built-in with no extra installation; pretty straighforward.
