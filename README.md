@@ -6,7 +6,7 @@ Documentation was moved to https://github.com/Polight/lego/tree/master/docs
 </template>
 
 <script>
-  export class extends Lego {
+  export default class extends Lego {
     init() {
       this.state = { duration: "Future-Proof" }
     }
