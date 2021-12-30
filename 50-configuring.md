@@ -14,6 +14,10 @@ The full list of parameters is available in the [compiler config](https://github
 You should see that file to know the exhaustive list of parameters and
 what they do.
 
+You can either setup each of these values from a custom config file or directly
+from the command line arguments.
+
+
 ## Setup a Custom Configuration File
 
 Create a _lego.config.js_ file at the root of your project with the following:
@@ -26,6 +30,8 @@ export default {
 
 This file will override the default [config.js](https://github.com/Polight/lego/blob/master/src/compiler/config.js#L1) settings when declared.
 
+> If your _/lego.config.js_ file is not found, please ensure to have `"type": "module"` in your package.json file in order to read `.js` files
+as modules.
 
 ### ⚠️  Missing lego.config.js file, building with defaults.
 
