@@ -1,0 +1,15 @@
+<template>
+  <button class="primary" @click="decrement">-</button>
+  <span>${ state.value }</span>
+  <button @click="increment">+</button>
+</template>
+
+<script>
+  export default class extends Lego {
+    init() {
+      this.state = { value: 0 }
+    }
+    increment() { this.render({ value: Number(this.state.value) + 1 }) }
+    decrement() { this.render({ value: Number(this.state.value) - 1 }) }
+  }
+</script>
