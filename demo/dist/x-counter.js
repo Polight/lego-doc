@@ -1,6 +1,6 @@
 
 // Lego version undefined
-import { h, Component } from 'https://unpkg.com/@polight/lego/dist/lego.min.js'
+import { h, Component } from '/demo/node_modules/@polight/lego/dist/lego.min.js'
 
 class Lego extends Component {
   get vdom() {
@@ -9,7 +9,11 @@ class Lego extends Component {
   h("span", {}, `${ state.value }`),
   h("button", {"onclick": this.increment.bind(this)}, `+`)]
   }
-  
+  get vstyle() {
+    return ({ state }) => h('style', {}, `
+    @import url("/demo/index.css");
+    
+  `)}
 }
 
 

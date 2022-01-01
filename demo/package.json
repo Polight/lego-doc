@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "lego-demo",
   "version": "1.0.0",
   "description": "Examples of Lego web-components",
