@@ -19,6 +19,8 @@ Create them with `mkdir bricks dist`.
 
 ### Installation
 
+If you don't have a _package.json_ file yet, initialize first with `npm init` (or `yarn init`).
+
 Install the compiler with `npm i @polight/lego` (or `yarn add @polight/lego`).
 
 We will end with the following file tree:
@@ -46,15 +48,22 @@ Create a file called __bricks/hello-world.html__:
 </script>
 ```
 
+<<<<<<< HEAD
 Compile with `npx lego` (or `yarn lego`)
 
 And use the output file in an __index.html__ file in your root folder.
+=======
+Compile with `npx @polight/lego`
+
+And use you component in your __index.html__:
+>>>>>>> 23751da9fbd0b2cfe6b38eaa4a3852ebdc25d01c
 
 ```html
 <script src="./dist/index.js" type="module"></script>
 <hello-world></hello-world>
 ```
 
+<<<<<<< HEAD
 Now serve this with a local web server (ie: `python3 -m http.server`) and display your index.html (ie: http://localhost:8000).
 
 
@@ -70,3 +79,8 @@ Here's what you just did with this simple code:
 4. you used the HTML element `<hello-world></hello-world>`
 
 No magic 🪄 here, just a couple of [default configuration that you can override](/configuring-components/).
+=======
+Run a local web server, eg: `npx sirv-cli` and open http://localhost:5000.
+
+You website is ready to be published on any _static_ host, even Github Pages.
+>>>>>>> 23751da9fbd0b2cfe6b38eaa4a3852ebdc25d01c

@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "lego-demo",
+  "version": "1.0.0",
+  "description": "Examples of Lego web-components",
+  "main": "index.html",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@polight/lego": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web-components",
+    "demo",
+    "custom-elements"
+  ],
+  "author": "Vincent Agnano",
+  "license": "MIT"
+}
